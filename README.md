@@ -1,5 +1,5 @@
 # discord-price-bot
-
+https://discordpy.readthedocs.io/ja/latest/index.html
 ## 環境設定
 > Linux環境では、依存関係にある以下のライブラリが必要になるので注意してください。
 > - libffi
